@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "lv_sysmon_private.h": "c",
+        "lv_timer_private.h": "c"
+    }
+}
